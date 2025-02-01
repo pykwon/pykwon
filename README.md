@@ -11,8 +11,8 @@ I also spend a lot of time on Java programming, spring-enabled web projects.
 - 🎨 HTML, JavaScript, React, Vue  
 
 📫 **Contact & Links**  
-[![GitHub](https://img.shields.io/badge/GitHub-pykwon-blue?logo=github)](https://github.com/pykwon)  
-[![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://cafe.daum.net/flowlife)
+https://github.com/pykwon [![GitHub](https://img.shields.io/badge/GitHub-pykwon-blue?logo=github)](https://github.com/pykwon)  
+cafe.daum.net/flowlife [![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://cafe.daum.net/flowlife)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykwon&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pykwon&layout=compact)
