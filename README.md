@@ -14,5 +14,9 @@ I also spend a lot of time on Java programming, spring-enabled web projects.
 [![GitHub](https://img.shields.io/badge/GitHub-pykwon-blue?logo=github)](https://github.com/pykwon)  
 [![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://cafe.daum.net/flowlife)
 
-![Banner](https://your-image-url.com/banner.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykwon&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pykwon&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pykwon&theme=onedark)
+
 ✨ **Thank you for visiting my profile!**
