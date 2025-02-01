@@ -1,4 +1,4 @@
-### 👋 Welcome to my GitHub profile! (GitHub 프로필에 오신 것을 환영합니다!)
+### 👋 Welcome to my GitHub profile!
 
 I'm passionate about **Data Analysis** and **Java programming**.  
 I love to work on projects related to **Python, R, and backend development**.
