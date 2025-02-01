@@ -1,8 +1,8 @@
-### 👋 Welcome to my GitHub profile!
+### 👍 Welcome to my GitHub profile!
 
-I am very interested in Python programming and data analytics.
-So I like to work on projects involving Python, R, and backend development.
-I also spend a lot of time on Java programming, spring-enabled web projects.
+I am very interested in Python programming and data analytics. <br>
+So I like to work on projects involving Python, R, and backend development. <br>
+I also spend a lot of time on Java programming, spring-enabled web projects. <br>
 
 🌱 **Skills & Tech Stack**  
 - 🔥 Java(Spring), Python(Django), R, Tensorflow ......  
@@ -11,7 +11,7 @@ I also spend a lot of time on Java programming, spring-enabled web projects.
 - 🎨 HTML, JavaScript, React, Vue  
 
 📫 **Contact & Links**  
-https://github.com/pykwon [![GitHub](https://img.shields.io/badge/GitHub-pykwon-blue?logo=github)](https://github.com/pykwon)  
+github.com/pykwon [![GitHub](https://img.shields.io/badge/GitHub-pykwon-blue?logo=github)](https://github.com/pykwon)  
 cafe.daum.net/flowlife [![Website](https://img.shields.io/badge/Website-Visit-green?logo=google-chrome)](http://cafe.daum.net/flowlife)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pykwon&show_icons=true&theme=radical)
