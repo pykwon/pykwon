@@ -5,7 +5,7 @@ So I like to work on projects involving Python, R, and backend development. <br>
 I also spend a lot of time on Java programming, spring-enabled web projects. <br>
 
 🌱 **Skills & Tech Stack**  
-- 🔥 Java(Spring), Python(Django), R, Tensorflow ......  
+- 🔥 Java(Spring), Python(Django), R, Tensorflow, ML, NLP ......  
 - 💾 SQL, MyBatis, Hibernate(JPA)  
 - ☁️ AWS, Docker, Kubernetes  
 - 🎨 HTML, JavaScript, React, Vue  
