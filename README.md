@@ -1,7 +1,8 @@
 ### 👋 Welcome to my GitHub profile!
 
-I'm passionate about **Data Analysis** and **Java programming**.  
-I love to work on projects related to **Python, R, and backend development**.
+I am very interested in Python programming and data analytics.
+So I like to work on projects involving Python, R, and backend development.
+I also spend a lot of time on Java programming, spring-enabled web projects.
 
 🌱 **Skills & Tech Stack**  
 - 🔥 Java(Spring), Python(Django), R, Tensorflow ......  
